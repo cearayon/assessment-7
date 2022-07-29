@@ -11,7 +11,8 @@
 //         } 
 //         return false
 // }
-O(1) space complexity
+//O(n) runtime
+// O(1) space complexity
 // console.log(sumZero([90, -80, -11]))
 
 // function uniqueString(string){
@@ -24,7 +25,8 @@ O(1) space complexity
 // }
 // return true
 // }
-o(1) space complexity
+//o(n^2) runtime
+// o(1) space complexity
 // console.log(uniqueString('mood'))
 
 //     let alphabet = ["a","b","c","d","e","f","g","h","i","j","k", "l","m","n","o","p","q", "r", "s","t","u","v", "w","x","y","z",];
@@ -37,7 +39,8 @@ o(1) space complexity
 //     }
 //     return true
 // }
-O(1)
+//O(n) runtime
+// O(1)
 // console.log(isPangram('The quick brown fox jumps over the lazy dogs'))
 // console.log(isPangram("I like cats, but not mice"))
 
@@ -51,5 +54,6 @@ O(1)
 //     return word.length
 
 // }
-O(1) space complexity
+//O(n)
+// O(1) space complexity
 // console.log(longestWord(['one', 'three']))
